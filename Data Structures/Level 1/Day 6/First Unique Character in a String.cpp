@@ -21,6 +21,6 @@ public:
                 return it->second.index;
             }
         }
-        return -1;
+        return (-1);
     }
 };
